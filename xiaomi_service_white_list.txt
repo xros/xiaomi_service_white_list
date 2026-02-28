@@ -1,0 +1,18 @@
+!
+! Title: Xiaomi service white list
+! Description: for unblocking important xiaomi services for weather, cloud, image, IoT devices and etc.
+! License: GPL V3
+! 
+! Compiled by github.com/xros
+!
+! Source name: Xiaomi Service White List
+! Source: https://TODO
+!
+||wtradv.market.xiaomi.com
+||api.comm.miui.com
+||statusapi.micloud.xiaomi.net
+||i.xiaomi.com
+||api.developer.xiaomi.com
+||i.mi.com
+||galleryapi.micloud.xiaomi.net
+||cnbj1.fds.api.xiaomi.com
