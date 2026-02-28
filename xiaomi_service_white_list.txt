@@ -6,7 +6,7 @@
 ! Compiled by github.com/xros
 !
 ! Source name: Xiaomi Service White List
-! Source: https://TODO
+! Source: https://raw.githubusercontent.com/xros/xiaomi_service_white_list/refs/heads/main/xiaomi_service_white_list.txt
 !
 ||wtradv.market.xiaomi.com
 ||api.comm.miui.com
